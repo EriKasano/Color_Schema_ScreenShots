@@ -1,0 +1,13 @@
+<color name="primary">#e9ece5</color>
+    <color name="primary_light">#e8edf3</color>
+    <color name="primary_dark">#c0dfd9</color>
+
+    <color name="secondary">#52aecb</color>
+    <color name="secondary_light">#b56969</color>
+    <color name="secondary_dark">#c9c9c9</color>
+
+    <color name="content_bg">#ffffff</color>
+    <color name="parent_bg">#a6ded3</color>
+
+    <color name="text_on_primary">#3b3a36</color>
+    <color name="text_on_secondary">#eff6f2</color>
